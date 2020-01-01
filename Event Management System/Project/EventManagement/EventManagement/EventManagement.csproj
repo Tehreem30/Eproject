@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2DD6B64C-2DA8-4BD4-8E95-A484A5EB369E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EventManagement</RootNamespace>
+    <AssemblyName>EventManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>D:\Mak Project\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MetroFramework">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Management\addcatering.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Management\addcatering.Designer.cs">
+      <DependentUpon>addcatering.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\Addsound.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Management\Addsound.Designer.cs">
+      <DependentUpon>Addsound.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\AddS_D.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Management\AddS_D.Designer.cs">
+      <DependentUpon>AddS_D.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\Addvenue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Management\Addvenue.Designer.cs">
+      <DependentUpon>Addvenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\book.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer\book.Designer.cs">
+      <DependentUpon>book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\Catering.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer\Catering.Designer.cs">
+      <DependentUpon>Catering.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management\previouosEvents.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Management\previouosEvents.Designer.cs">
+      <DependentUpon>previouosEvents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceProvider\CateringDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ServiceProvider\CateringDetails.Designer.cs">
+      <DependentUpon>CateringDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="connectionclass.cs" />
+    <Compile Include="EventModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EventModule.Designer.cs">
+      <DependentUpon>EventModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costumerdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costumerdetails.Designer.cs">
+      <DependentUpon>costumerdetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main1.Designer.cs">
+      <DependentUpon>main1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\Payment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer\Payment.Designer.cs">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceProvider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServiceProvider.Designer.cs">
+      <DependentUpon>ServiceProvider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceProvider\SoundSysDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ServiceProvider\SoundSysDetails.Designer.cs">
+      <DependentUpon>SoundSysDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceProvider\StageDecorationDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ServiceProvider\StageDecorationDetails.Designer.cs">
+      <DependentUpon>StageDecorationDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\stage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer\stage.Designer.cs">
+      <DependentUpon>stage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceProvider\VeneuDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ServiceProvider\VeneuDetails.Designer.cs">
+      <DependentUpon>VeneuDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\Venue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer\Venue.Designer.cs">
+      <DependentUpon>Venue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\sound.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer\sound.Designer.cs">
+      <DependentUpon>sound.cs</DependentUpon>
+    </Compile>
+    <Compile Include="slip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="slip.Designer.cs">
+      <DependentUpon>slip.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\addcatering.resx">
+      <DependentUpon>addcatering.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\Addsound.resx">
+      <DependentUpon>Addsound.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\AddS_D.resx">
+      <DependentUpon>AddS_D.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\Addvenue.resx">
+      <DependentUpon>Addvenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\book.resx">
+      <DependentUpon>book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\Catering.resx">
+      <DependentUpon>Catering.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management\previouosEvents.resx">
+      <DependentUpon>previouosEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServiceProvider\CateringDetails.resx">
+      <DependentUpon>CateringDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EventModule.resx">
+      <DependentUpon>EventModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="costumerdetails.resx">
+      <DependentUpon>costumerdetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main1.resx">
+      <DependentUpon>main1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\Payment.resx">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ServiceProvider.resx">
+      <DependentUpon>ServiceProvider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServiceProvider\SoundSysDetails.resx">
+      <DependentUpon>SoundSysDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServiceProvider\StageDecorationDetails.resx">
+      <DependentUpon>StageDecorationDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\stage.resx">
+      <DependentUpon>stage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServiceProvider\VeneuDetails.resx">
+      <DependentUpon>VeneuDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\Venue.resx">
+      <DependentUpon>Venue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\sound.resx">
+      <DependentUpon>sound.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="slip.resx">
+      <DependentUpon>slip.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Admin_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Admin.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\background-2354151_960_7201.jpg" />
+    <None Include="Resources\background-2354151_960_720.jpg" />
+    <None Include="Resources\ivan-laliashvili-login-background.jpg" />
+    <None Include="Resources\login-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

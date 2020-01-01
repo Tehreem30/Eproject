@@ -1,0 +1,809 @@
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Staff.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Wedding_Details.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Form1.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Main.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Staff.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Staffwork.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Treeview.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Wedding_Details.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Form2.resources
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECH\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Form1.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Form2.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Main.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Staff.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Staffwork.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Treeview.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.Wedding_Details.resources
+C:\Users\Aptech1\Desktop\ee\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Form1.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Form2.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Main.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Staff.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Staffwork.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Treeview.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.Wedding_Details.resources
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp.APTECH\Desktop\Mak'\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Form1.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Form2.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Main.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Staff.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Staffwork.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Treeview.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Wedding_Details.resources
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\Aptech1\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Staff.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Wedding_Details.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\asp.APTECH\Desktop\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Staff.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Wedding_Details.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\AFFAN\Desktop\EventManagement\EventManagement\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Staff.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Wedding_Details.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\asp.APTECH\Downloads\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Payment.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Staff.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Wedding_Details.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\Aptech1\Desktop\Mak_-20190504T052309Z-001\Mak_\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\Aptech1\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\Aptech1\OneDrive\Documents\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+D:\Mak Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+D:\Mak Project\EventManagement\EventManagement\bin\Debug\Admin.mdf
+D:\Mak Project\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+D:\Mak Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+D:\Mak Project\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+D:\Mak Project\EventManagement\EventManagement\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Mak Project\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+D:\Mak Project\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\asp.APTECH\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\asp\Desktop\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\asp\Desktop\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\asp\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\asp\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\asp\Desktop\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Form3.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\asp.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+D:\me\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+D:\me\EventManagement\EventManagement\bin\Debug\Admin.mdf
+D:\me\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+D:\me\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+D:\me\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+D:\me\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+D:\me\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\aatika.APTECH\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\Aptech1\Desktop\me\EventManagement\EventManagement\obj\Debug\EventManagement.AddS,D.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Decoration.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Food.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Light.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.serivce.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Sound.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Sound_Syestem.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\asp.APTECH\Desktop\meh\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\Liaquat\Downloads\New folder (3)\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\Liaquat\Downloads\New folder (3)\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\Liaquat\Downloads\New folder (3)\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.sound.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.previouosEvents.resources
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\FlashControlV71.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\bin\Debug\stdole.dll
+C:\Users\Liaquat\Desktop\EventManagement\EventManagement\obj\Debug\EventManagement.slip.resources
+E:\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+E:\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin.mdf
+E:\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+E:\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+E:\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+E:\Event Management System\Project\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.previouosEvents.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.sound.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.slip.resources
+E:\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\FlashControlV71.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\bin\Debug\stdole.dll
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.previouosEvents.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.sound.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.slip.resources
+C:\Users\Liaquat\Desktop\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+\\server2\Faculty_Drive\Bilal Khan\project\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+\\server2\Faculty_Drive\Bilal Khan\project\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+\\server2\Faculty_Drive\Bilal Khan\project\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\FlashControlV71.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\stdole.dll
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.previouosEvents.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.sound.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.slip.resources
+C:\Users\farihaahmed\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\FlashControlV71.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\stdole.dll
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.previouosEvents.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.sound.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.slip.resources
+C:\Users\farihaahmed\Desktop\aatika\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.pdb
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin.mdf
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\Admin_log.ldf
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\FlashControlV71.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\MetroFramework.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\bin\Debug\stdole.dll
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csprojResolveAssemblyReference.cache
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.addcatering.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addsound.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.AddS_D.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Addvenue.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.admin.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.book.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Catering.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.previouosEvents.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.CateringDetails.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.EventManagmentModule.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.costumerdetails.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.main1.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.payment.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Properties.Resources.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.ServiceProvider.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.SoundSysDetails.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.StageDecorationDetails.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.stage.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.VeneuDetails.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.Venue.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.sound.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.slip.resources
+C:\Users\CZ 3\Desktop\Event Management System\Event Management System\Project\EventManagement\EventManagement\obj\Debug\EventManagement.csproj.GenerateResource.Cache
